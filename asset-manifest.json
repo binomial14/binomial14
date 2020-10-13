@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/binomial14/static/css/main.5f361e03.chunk.css",
+    "main.js": "/binomial14/static/js/main.65dea706.chunk.js",
+    "main.js.map": "/binomial14/static/js/main.65dea706.chunk.js.map",
+    "runtime-main.js": "/binomial14/static/js/runtime-main.3ae01b19.js",
+    "runtime-main.js.map": "/binomial14/static/js/runtime-main.3ae01b19.js.map",
+    "static/js/2.c2382b7b.chunk.js": "/binomial14/static/js/2.c2382b7b.chunk.js",
+    "static/js/2.c2382b7b.chunk.js.map": "/binomial14/static/js/2.c2382b7b.chunk.js.map",
+    "index.html": "/binomial14/index.html",
+    "precache-manifest.0fdd75471f2bf5a0a6d63e40f97e544d.js": "/binomial14/precache-manifest.0fdd75471f2bf5a0a6d63e40f97e544d.js",
+    "service-worker.js": "/binomial14/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/binomial14/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c2382b7b.chunk.js.LICENSE.txt": "/binomial14/static/js/2.c2382b7b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/binomial14/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ae01b19.js",
+    "static/js/2.c2382b7b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.65dea706.chunk.js"
+  ]
+}
